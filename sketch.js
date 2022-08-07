@@ -3,7 +3,7 @@ const density = "Ñ@#W$9876543210?!abc;:+=-,._ ";
 let barca;
 
 function preload() {
-  barca = loadImage("valkyrie.jpg");
+  barca = loadImage("barca.jpg");
 }
 
 function setup() {
